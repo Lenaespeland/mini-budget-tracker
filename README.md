@@ -35,7 +35,7 @@ Budsjettoversikt/
 ├── script.js
 └── README.md
 
-## Hva jeg har lært
+## Hva jeg har lært/repetert
 
 * Å strukturere en nettside med HTML
 * Å lage et responsivt design med CSS
@@ -45,7 +45,6 @@ Budsjettoversikt/
 * Å oppdatere DOM-en dynamisk
 * Å beregne og formatere verdier
 * Å visualisere data med HTML, CSS og JavaScript
-* Å bruke Git og GitHub til å dokumentere og publisere et prosjekt
 
 ## Mulige videreutviklinger
 
