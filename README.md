@@ -4,7 +4,7 @@ Budsjettapplikasjon
 
 ## Om prosjektet
 
-Mini Budsjettoversikt lar brukeren registrere inntekter og utgifter og få en enkel oversikt over økonomien.
+Mini Budsjettoversikt for å registrere inntekter og utgifter og få en enkel oversikt over økonomien.
 
 Prosjektet er laget for å øve på frontend-utvikling, JavaScript, DOM-manipulering og Git/GitHub.
 
@@ -37,8 +37,6 @@ Budsjettoversikt/
 
 ## Hva jeg har lært
 
-Gjennom prosjektet har jeg fått øvelse i:
-
 * Å strukturere en nettside med HTML
 * Å lage et responsivt design med CSS
 * Å bruke JavaScript til å håndtere brukerinput
@@ -51,8 +49,6 @@ Gjennom prosjektet har jeg fått øvelse i:
 
 ## Mulige videreutviklinger
 
-Prosjektet kan videreutvikles med:
-
 * Lagring av transaksjoner med `localStorage`
 * Dato på transaksjoner
 * Filtrering etter kategori
@@ -63,5 +59,3 @@ Prosjektet kan videreutvikles med:
 ## Forfatter
 
 **Lena Espeland**
-
-Bachelorstudent i IT og informasjonssystemer.
