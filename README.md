@@ -1,6 +1,6 @@
 # Mini Budsjettoversikt
 
-En enkel budsjettapplikasjon laget med **HTML, CSS og JavaScript**.
+Budsjettapplikasjon
 
 ## Om prosjektet
 
